@@ -24,7 +24,7 @@ In this lab, we aim to enhance the translation invariance of images by incorpora
 
 ## Google Colab Link
 
-You can access and run this project in Google Colab using the following link: [Open in Google Colab](https://colab.research.google.com/drive/1gGYSCdMqzOetfZEAUW-Z1ZvK4fTg_9Eh#scrollTo=YXzeB4F_TvY2)
+You can access and run this project in Google Colab using the following link: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gGYSCdMqzOetfZEAUW-Z1ZvK4fTg_9Eh#scrollTo=YXzeB4F_TvY2)
 
 ## Usage
 
@@ -40,4 +40,4 @@ Feel free to explore the provided code, experiment with different configurations
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
+
